@@ -3,7 +3,7 @@
 
 # piggy-bot
 
-Piggy-bot là công cụ tự động hóa trên Telegram được thiết kế để giúp bạn quản lý và tương tác với [piggy piggy bot](https://t.me/PiggyPiggyofficialbot/game?startapp=share_5221388128).
+Piggy-bot [piggy piggy bot](https://t.me/PiggyPiggyofficialbot/game?startapp=share_5221388128).
 
 <p align="center">
   <img src="public/piggy.png" alt="blum" width="300"/>
